@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e23a7c6b-1089-46d7-99c8-77e8ecd091ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ex8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ex8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch5/ex1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ch5/ex1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.externalResources"
   }
 }]]></component>
