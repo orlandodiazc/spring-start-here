@@ -1,7 +1,6 @@
 package org.ditod.repositories;
 
 import org.ditod.models.Comment;
-import org.springframework.stereotype.Component;
 
 public class DBCommentRepository implements CommentRepository {
     @Override

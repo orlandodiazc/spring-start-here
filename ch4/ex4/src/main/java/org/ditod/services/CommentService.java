@@ -3,7 +3,6 @@ package org.ditod.services;
 import org.ditod.models.Comment;
 import org.ditod.proxies.CommentNotificationProxy;
 import org.ditod.repositories.CommentRepository;
-import org.springframework.stereotype.Component;
 
 public class CommentService {
     private final CommentRepository commentRepository;

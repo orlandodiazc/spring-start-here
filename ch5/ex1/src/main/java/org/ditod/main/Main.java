@@ -4,8 +4,6 @@ import org.ditod.config.ProjectConfig;
 import org.ditod.services.CommentService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import javax.xml.stream.events.Comment;
-
 public class Main {
     public static void main(String[] args) {
         var context = new AnnotationConfigApplicationContext(ProjectConfig.class);

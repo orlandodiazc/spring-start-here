@@ -4,7 +4,6 @@ import org.ditod.models.Comment;
 import org.ditod.proxies.CommentNotificationProxy;
 import org.ditod.repositories.CommentRepository;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 @Service
